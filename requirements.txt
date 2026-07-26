@@ -1,0 +1,4 @@
+streamlit>=1.40.0
+openai>=1.55.0
+python-dotenv>=1.0.1
+truststore>=0.10.0  # use the OS cert store (fixes TLS-inspecting AV/proxies e.g. Avast)
